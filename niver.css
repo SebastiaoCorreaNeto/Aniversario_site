@@ -1,0 +1,95 @@
+body{
+    margin-left: auto;
+    margin-right: auto;
+    width: 500;
+    text-align: center;
+    font-family: "Happy Monkey", system-ui;
+    background: linear-gradient(#a2d2ff, #EFB0C9) ;
+    color: #ffffff;
+    text-shadow: 0px 0px 1px black;
+}
+
+#idade {
+    background-color: #EFB0C9;
+    padding: 4 10 4 10;
+    border-radius: 5px;
+    margin-bottom: 5;
+}
+
+#data {
+    background-color: #EFB0C9;
+    padding: 4 10 4 10;
+    border-radius: 5px;
+    margin-top: 5;
+}
+
+.avatar {
+    background-color: #ddd;
+    border-radius: 50%;
+    height: 200px;
+    object-fit: cover;
+    width: 200px;
+    border: 8px solid #EFB0C9;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.tenor-gif-embed {
+    border: 6px solid white;
+    border-radius: 10px;
+}
+
+.raper {
+    width: 500;
+    height: 500;
+    border: 6px solid #ffffff;
+    border-radius: 10px;
+    background-image: url(img/4659249.jpg);
+    background-size: cover;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#gif1:hover {
+    background-image: url(img/byuntear-cat.gif);
+}
+
+#gif2:hover {
+    background-image: url(img/happy-happy-dog.gif);
+}
+
+#gif3:hover {
+    background-image: url(img/thumbsup-doublethumbsup.gif);
+    background-position: center;
+}
+
+#gif4:hover {
+    background-image: url(img/smiling-superman.gif);
+    background-position: center;
+}
+
+#gif5:hover {
+    background-image: url(img/cheers-party.gif);
+    background-position: center;
+}
+
+#gif5 {
+    height: 270px;
+}
+
+.giftse {
+    margin-top: 50px;
+}
+
+.giftt {
+    margin-bottom: 10;
+    margin-top: 50;
+}
+
+.gifth {
+    margin-top: 0%;
+}
